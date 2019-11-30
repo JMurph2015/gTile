@@ -1,0 +1,22 @@
+{
+  "name": "gtile",
+  "version": "30.0.0",
+  "description": "Tile windows in Gnome3",
+  "main": "extension.js",
+  "scripts": {
+    "test": "bazel test //:gtile"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMurph2015/gTile.git"
+  },
+  "author": "gTile Authors",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/JMurph2015/gTile/issues"
+  },
+  "homepage": "https://github.com/JMurph2015/gTile#readme",
+  "devDependencies": {
+    "typescript": "^3.6.3"
+  }
+}
